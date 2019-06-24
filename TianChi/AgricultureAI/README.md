@@ -2,7 +2,9 @@
 
 **windows安装一共分为两步：**
 
-**1.** windows先安装openslide二进制文件，位于[http://openslide.org/download/](http://openslide.org/download/%EF%BC%9B) ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190620102600621.png) 下载64-bit后解压，文件夹中有一个bin目录，记下这bin目录的地址。
+**1.** windows先安装openslide二进制文件，位于[http://openslide.org/download/](http://openslide.org/download/%EF%BC%9B) ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190620102600621.png) 
+
+下载64-bit后解压，文件夹中有一个bin目录，记下这bin目录的地址。
 
 **2.** 执行pip install openslide-python 进入该openslide的目录，找到lowlevel.py文件，打开，在前面加入：
 
