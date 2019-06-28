@@ -1,6 +1,6 @@
-超大分辨率图片读取模块：openslide
+## 超大分辨率图片读取模块：openslide
 
-**windows安装一共分为两步：**
+### windows安装一共分为两步：
 
 **1.** windows先安装openslide二进制文件，位于[http://openslide.org/download/](http://openslide.org/download/%EF%BC%9B) ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190620102600621.png) 
 
@@ -15,7 +15,7 @@ os.environ['PATH'] = "F:/openslide-win64-20171122/bin/" + ";" + os.environ['PATH
 
 使得该文件可以找到步骤1中得到的bin目录文件。 运行python lowlevel.py不报错则成功。
 
-## linux安装
+### linux安装
 
 ```
 # linux安装比较简单
