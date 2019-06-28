@@ -2,7 +2,6 @@ import os
 from tqdm import tqdm
 import openslide
 import numpy as np
-# import matplotlib.pyplot as plt
 from PIL import Image
 from matplotlib import image
 
