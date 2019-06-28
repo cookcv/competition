@@ -4,8 +4,6 @@ import openslide
 import numpy as np
 # import matplotlib.pyplot as plt
 from PIL import Image
-# from itertools import groupby
-# from skimage import measure
 from matplotlib import image
 
                         
